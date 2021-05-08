@@ -34,7 +34,7 @@
 
 <br>
 
-<p style="float:right">
+<div style="float:right">
     <a href="https://github.com/CengizhanParlak" target="_blank"><img alt="GitHub" style="border: solid white 2.40px; border-radius: 25px; height: 30px" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/></a> 
     <a href="https://www.linkedin.com/in/cengizhanparlak" target="_blank"><img alt="LinkedIn" style="border: solid #0e0e59 2.4px; border-radius: 25px; height: 30px;" src="https://img.shields.io/badge/cengizhanparlak-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
-</p>
+</div>
