@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 <p style="text-align: center; font-size: 1.2em"> Comp Eng major at his senior year in Turkey </p>
 
 ### Some development areas that i'm fond of
+=======
+<p style="text-align: center; font-size: 1.2em"> Comp Eng major at his senior year in Turkey</p>
+>>>>>>> faeea7118479c2d7b1a7b0b579bd0dbcbf80d101
 
   <br>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="android studio" height="40px"/> <img  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" alt="java" height="45px"/> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg" alt="kotlin" style="margin-left:5px" height="45px"/> <img  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/flutter/flutter.svg" alt="flutter" height="45px"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg" alt="unity" height="42px"/> <img style="margin-left:5px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/38730c17186b005ac1045f566706367f4de74595/language_and_tools/square/c%23/c%23.svg" alt="c#" height="45px"/>
@@ -31,7 +35,7 @@
 
 <br>
 
-<p style="float:right">
+<div style="float:right">
     <a href="https://github.com/CengizhanParlak" target="_blank"><img alt="GitHub" style="border: solid white 2.40px; border-radius: 25px; height: 30px" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/></a> 
     <a href="https://www.linkedin.com/in/cengizhanparlak" target="_blank"><img alt="LinkedIn" style="border: solid #0e0e59 2.4px; border-radius: 25px; height: 30px;" src="https://img.shields.io/badge/cengizhanparlak-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
-</p>
+</div>
