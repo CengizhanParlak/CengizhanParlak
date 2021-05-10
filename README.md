@@ -23,16 +23,16 @@
 <div>
 <div style="display:flex; overflow:hidden;">
 <div class="col" style="flex:1; display:flex; overflow: hidden"><img src="https://github-readme-stats.vercel.app/api?username=CengizhanParlak&count_private=true&show_icons=true?&theme=dark"/></div>
-<!-- <div class="col" style="margin-left: 1em; flex:1; display:flex; overflow: hidden;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CengizhanParlak&layout=compact&theme=dark"/> -->
+<div class="col" style="margin-left: 1em; flex:1; display:flex; overflow: hidden;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CengizhanParlak&layout=compact&theme=dark"/>
 </div>
 </div>
 
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=khanj&theme=dark" alt="coding activity this week" style="max-width:100%;"> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@khanj&theme=dark" alt="coding activity this week" style="max-width:100%;">
 
 <br>
 
 <div style="float:right">
-    <a href="https://github.com/CengizhanParlak" target="_blank"><img alt="GitHub" style="border: solid white 2.40px; border-radius: 25px; height: 30px" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white"/></a> 
+    <a href="https://github.com/CengizhanParlak" target="_blank"><img alt="GitHub" style="border: solid white 2.40px; border-radius: 25px; height: 30px" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white&v=2"/></a> 
     <a href="https://www.linkedin.com/in/cengizhanparlak" target="_blank"><img alt="LinkedIn" style="border: solid #0e0e59 2.4px; border-radius: 25px; height: 30px;" src="https://img.shields.io/badge/cengizhanparlak-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
 </div>
