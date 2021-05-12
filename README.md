@@ -19,8 +19,8 @@
 <br>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=CengizhanParlak&count_private=true&show_icons=true?&theme=dark" width="300px"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@khanj&theme=dark&layout=compact" alt="coding activity this week" width="300px">
+  <img src="https://github-readme-stats.vercel.app/api?username=CengizhanParlak&count_private=true&show_icons=true?&theme=dark" width="425px"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@@khanj&theme=dark&layout=compact" alt="coding activity this week" width="425px">
 </p>
 
 
