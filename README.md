@@ -1,6 +1,6 @@
 <p style="text-align: center; font-size: 1.2em"> Comp Eng major at his senior year in Turkey </p>
 
-### Some development areas that i'm fond of
+### Some development areas that i'm fond of 
 
   <br>
   <div>
