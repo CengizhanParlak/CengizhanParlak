@@ -29,10 +29,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CengizhanParlak&layout=compact&theme=dark"/>
 </div>  -->
 
+<!-- 
 <h2>Apps I've contributed</h2>
-
-
-
 <div class="row">
 <div class="column">
 <div class="card">
@@ -45,12 +43,15 @@
 </div>
 </div>
 </div>
+-->
 
 
 <div  align="end">
     <a href="https://github.com/CengizhanParlak" target="_blank"><img alt="GitHub" style="border: solid white 2.40px; border-radius: 25px; height: 30px" src="https://img.shields.io/badge/github-%2312100E.svg?style=for-the-badge&logo=Github&logoColor=white&v=2"/></a>
     <a href="https://www.linkedin.com/in/cengizhanparlak" target="_blank"><img alt="LinkedIn" style="border: solid #0e0e59 2.4px; border-radius: 25px; height: 30px;" src="https://img.shields.io/badge/cengizhanparlak-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white/"></a>
 </div>
+
+<!-- 
 
 <style>
 .row {
@@ -86,3 +87,5 @@ img {
 }
 
 </style>
+
+-->
